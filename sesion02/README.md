@@ -99,4 +99,4 @@ De igual manera, las gráficas de densidad son una gran herramienta para compara
 
 <br/>
 
-[`Anterior`](../sesion01/README.md) | `Siguiente`
+[`Anterior`](../sesion01/README.md) | [`Siguiente`](../sesion03/README.md)

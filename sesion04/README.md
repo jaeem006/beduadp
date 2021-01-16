@@ -86,3 +86,7 @@ Veamos qué significa hacer una regresión lineal simple y cómo aplicarla.
 ### 3. Postwork :memo:
 
 [**`Postwork Sesión 4`**](Postwork/Readme.md)
+
+<br/>
+
+[`Anterior`](../sesion03/README.md) | `Siguiente`

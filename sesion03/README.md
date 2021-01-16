@@ -103,3 +103,7 @@ Las tablas de contingencia son muy útiles cuando queremos hacer conteo de frecu
 ### 3. Postwork :memo:
 
 [**`Postwork Sesión 3`**](Postwork/Readme.md)
+
+<br/>
+
+[`Anterior`](../sesion02/README.md) | [`Siguiente`](../sesion04/README.md)
