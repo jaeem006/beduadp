@@ -89,4 +89,4 @@ Veamos qué significa hacer una regresión lineal simple y cómo aplicarla.
 
 <br/>
 
-[`Anterior`](../sesion03/README.md) | `Siguiente`
+[`Anterior`](../sesion03/README.md) | [`Siguiente`](../sesion05/README.md)

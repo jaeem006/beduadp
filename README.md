@@ -28,9 +28,9 @@ Fecha | Sesión | Tema                                                          
 09/01 | 2      | [Introducción a la visualización de datos: Distribuciones](sesion02/README.md) |
 16/01 | 3      | [Exploración de Variables Categóricas y Análisis Multivariable](sesion03/README.md) |
 16/01 | 4      | [Correlaciones y Regresión Lineal Simple](sesion04/README.md) |
+23/01 | 5      | [Distribuciones muestrales y técnicas de evaluación de modelos](sesion05/README.md) |
+23/01 | 6      | [Visualización de Datos Avanzada](sesion06/README.md) |
 <!--
-09/11 | 5      | Distribuciones muestrales y técnicas de evaluación de modelos | [**`Sesión 5`**](sesion05/README.md) |
-11/11 | 6      | Visualización de Datos Avanzada                               | [**`Sesión 6`**](sesion06/README.md) |
 12/11 | 7      | Pruebas A/B y Procesamiento del Lenguaje Natural | [**`Sesión 7`**](sesion07/Readme.md) |
 30/11 | 8      | ntroducción a Machine Learning: Clasificación No Supervisada y Supervisada | [**`Sesión 8`**](sesion08/Readme.md)
 -->

@@ -103,3 +103,5 @@ En la misma vena que los scatterplots por categorías tenemos a las gráficas de
 ### 3. Postwork :memo:
 
 [**`Postwork Sesión 6`**](Postwork/Readme.md)
+
+[`Anterior`](../sesion05/README.md) | `Siguiente`
