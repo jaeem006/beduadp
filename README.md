@@ -20,7 +20,7 @@ El módulo de __Análisis de Datos con Python__ tiene como principal objetivo ut
 
 ### Agenda :date:
 
-*3 de febrero al 8 de febrero de 2021*
+*3 de febrero al 8 de marzo de 2021*
 
 Fecha | Sesión | Tema                                                          | 
 ------| :----: | :------------------------------------------------------------ | 
