@@ -26,8 +26,8 @@ Fecha | Sesión | Tema                                                          
 ------| :----: | :------------------------------------------------------------ | 
 03/02 | 1      | [Estimados de Locación y Variabilidad](sesion01/README.md)    | 
 08/02 | 2      | [Introducción a la visualización de datos: Distribuciones](sesion02/README.md) |
+10/02 | 3      | [Exploración de Variables Categóricas y Análisis Multivariable](sesion03/README.md) |
 <!--
-16/01 | 3      | [Exploración de Variables Categóricas y Análisis Multivariable](sesion03/README.md) |
 16/01 | 4      | [Correlaciones y Regresión Lineal Simple](sesion04/README.md) |
 23/01 | 5      | [Distribuciones muestrales y técnicas de evaluación de modelos](sesion05/README.md) |
 23/01 | 6      | [Visualización de Datos Avanzada](sesion06/README.md) |
