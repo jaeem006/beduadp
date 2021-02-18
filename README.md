@@ -17,6 +17,7 @@ El módulo de __Análisis de Datos con Python__ tiene como principal objetivo ut
 
 - :link: [Curso Introductorio  de Git](https://github.com/beduExpert/Curso-Introductorio-Git-2020/blob/master/README.md)
 - :link: [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- :link: [What do the horizontal and vertical axes represent in a KDE plot?](https://discuss.codecademy.com/t/what-do-the-horizontal-and-vertical-axes-represent-in-a-kde-plot/362784)
 
 ### Agenda :date:
 
@@ -28,8 +29,8 @@ Fecha | Sesión | Tema                                                          
 08/02 | 2      | [Introducción a la visualización de datos: Distribuciones](sesion02/README.md) |
 10/02 | 3      | [Exploración de Variables Categóricas y Análisis Multivariable](sesion03/README.md) |
 15/02 | 4      | [Correlaciones y Regresión Lineal Simple](sesion04/README.md) |
+17/02 | 5      | [Distribuciones muestrales y técnicas de evaluación de modelos](sesion05/README.md) |
 <!--
-23/01 | 5      | [Distribuciones muestrales y técnicas de evaluación de modelos](sesion05/README.md) |
 23/01 | 6      | [Visualización de Datos Avanzada](sesion06/README.md) |
 30/01 | 7      | [Pruebas A/B y Procesamiento del Lenguaje Natural](sesion07/Readme.md) |
 30/01 | 8      | [Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](sesion08/Readme.md) |
