@@ -31,8 +31,8 @@ Fecha | Sesión | Tema                                                          
 15/02 | 4      | [Correlaciones y Regresión Lineal Simple](sesion04/README.md) |
 17/02 | 5      | [Distribuciones muestrales y técnicas de evaluación de modelos](sesion05/README.md) |
 22/02 | 6      | [Visualización de Datos Avanzada](sesion06/README.md) |
+24/02 | 7      | [Pruebas A/B y Procesamiento del Lenguaje Natural](sesion07/Readme.md) |
 <!--
-30/01 | 7      | [Pruebas A/B y Procesamiento del Lenguaje Natural](sesion07/Readme.md) |
 30/01 | 8      | [Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](sesion08/Readme.md) |
 -->
 
