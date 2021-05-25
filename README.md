@@ -9,8 +9,8 @@ El módulo de __Análisis de Datos con Python__ tiene como principal objetivo ut
 
 ### Información General :information_source:
 
-- **Experto:** L. en C.C. Manuel Soto Romero
-- **Horario:** Lunes y Miércoles 19 a 22 hrs.
+- **Experto:** L. en C.C. Javier Enríquez Mendoza
+- **Horario:** Martes y Jueves 19 a 22 hrs.
 - **Lugar:**   En línea.
 
 ### Material adicional :books:
