@@ -65,7 +65,7 @@ Una de estas técnicas es el *bootstrapping*. Veamos cómo funciona.
 >
 
 [**`Ejemplo 1`**](Ejemplo-01/bootstrap.ipynb)
-[**`Reto 1`**](Reto-01/bootstrap.ipynb)
+<!-- [**`Reto 1`**](Reto-01/bootstrap.ipynb) -->
 
 ---
 
@@ -80,7 +80,7 @@ Los intervalos de confianza son una manera de mostrar la incertidumbre de una fo
 >
 
 [**`Ejemplo 2`**](Ejemplo-02/error_estandar_e_intervalos_de_confianza.ipynb)
-[**`Reto 2`**](Reto-02/error_estandar_e_intervalos_de_confianza.ipynb)
+<!-- [**`Reto 2`**](Reto-02/error_estandar_e_intervalos_de_confianza.ipynb) -->
 
 ---
 
@@ -107,7 +107,7 @@ Hay varias formas en las que podemos encontrar este tipo de problemas al entrena
 Un primer acercamiento puede ser tomar nuestro conjunto de datos y dividirlo en dos: uno para entrenamiento y otro para pruebas. El modelo se entrena utilizando el conjunto de entrenamiento y luego su precisión se evalúa utilizando el de prueba. De esta forma se *simula* la capacidad predictiva del modelo en el mundo real: probando su precisión con datos que nunca antes ha visto.
 
 [**`Ejemplo 3`**](Ejemplo-03/entrenamiento_y_prueba.ipynb)
-[**`Reto 3`**](Reto-03/entrenamiento_y_prueba.ipynb)
+<!-- [**`Reto 3`**](Reto-03/entrenamiento_y_prueba.ipynb) -->
 
 ---
 
@@ -116,9 +116,15 @@ Un primer acercamiento puede ser tomar nuestro conjunto de datos y dividirlo en 
 La validación cruzada lleva el método anterior aún más lejos, puesto que realiza múltiples divisiones, entrena el modelo múltiples veces usando combinaciones distintas de divisiones y evalúa al modelo usando el promedio de todos los entrenamientos.
 
 [**`Ejemplo 4`**](Ejemplo-04/validacion_cruzada.ipynb)
-[**`Reto 4`**](Reto-04/validacion_cruzada.ipynb)
+<!-- [**`Reto 4`**](Reto-04/validacion_cruzada.ipynb) -->
 
 ---
+
+### <ins>Mini Proyecto</ins>
+
+Para poner en práctica todo lo que hemos aprendido hasta este momento, realiza el siguiente mini proyecto con el cual harás un análisis completo de datos sobre catas de vino.
+
+[**`Reto`**](Mini-Proyecto/mini_proyecto.ipynb)
 
 ### 3. Postwork :memo:
 
