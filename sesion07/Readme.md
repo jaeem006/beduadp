@@ -1,20 +1,20 @@
 [`Análisis de Datos con Python`](../README.md) > `Sesión 6`
 
-## Sesión 07: Pruebas A/B y Procesamiento del Lenguaje Natural
+## Sesión 07: Procesamiento del Lenguaje Natural
 
 <img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
 
 
 ### 1. Objetivos :dart:
 
-- Evaluar los resultados de Pruebas A/B.
+<!-- - Evaluar los resultados de Pruebas A/B. -->
 - Aplicar algunas técnicas de lenguaje natural usando Nltk y TextBlob.
 
 ### 2. Contenido :blue_book:
 
 ---
 
-<ins>Pruebas A/B</ins>
+<!-- <ins>Pruebas A/B</ins>
 
 Aprendimos en el Prework que una prueba A/B (A/B Test) es un experimento con dos grupos de personas para establecer cuál de dos tratamientos, procedimientos, productos, etc, es superior.
 
@@ -33,7 +33,7 @@ En el siguiente ejemplo veremos cómo aplicar estos conceptos de una manera prá
 
 [**`Ejemplo 1`**](Ejemplo-01/pruebas_ab.ipynb)
 [**`Reto 1`**](Reto-01/pruebas_ab.ipynb)
-
+ -->
 ---
 
 <ins>Procesamiento de Lenguaje Natural</ins>
@@ -46,18 +46,18 @@ Vamos a explorar algunas herramientas y técnicas que hacen esto posible.
 
 > 
 
-[**`Ejemplo 2`**](Ejemplo-02/regex.ipynb)
-[**`Reto 2`**](Reto-02/regex.ipynb)
+[**`Ejemplo 1`**](Ejemplo-02/regex.ipynb)
+[**`Reto 1`**](Reto-02/regex.ipynb)
 
-[**`Ejemplo 3`**](Ejemplo-03/nltk_text.ipynb)
-[**`Reto 3`**](Reto-03/nltk_text.ipynb)
+[**`Ejemplo 2`**](Ejemplo-03/nltk_text.ipynb)
+[**`Reto 2`**](Reto-03/nltk_text.ipynb)
 
-[**`Ejemplo 4`**](Ejemplo-04/nltk_freq_dist.ipynb)
-[**`Ejemplo 5`**](Ejemplo-05/nlp_visualizaciones.ipynb)
-[**`Reto 4`**](Reto-04/nltk_freq_dist_y_visualizaciones.ipynb)
+[**`Ejemplo 3`**](Ejemplo-04/nltk_freq_dist.ipynb)
+[**`Ejemplo 4`**](Ejemplo-05/nlp_visualizaciones.ipynb)
+[**`Reto 3`**](Reto-04/nltk_freq_dist_y_visualizaciones.ipynb)
 
-[**`Ejemplo 6`**](Ejemplo-06/analisis_de_sentimientos.ipynb)
-[**`Reto 5`**](Reto-05/analisis_de_sentimientos.ipynb)
+[**`Ejemplo 5`**](Ejemplo-06/analisis_de_sentimientos.ipynb)
+[**`Reto 4`**](Reto-05/analisis_de_sentimientos.ipynb)
 
 ---
 
