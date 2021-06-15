@@ -46,18 +46,18 @@ Vamos a explorar algunas herramientas y técnicas que hacen esto posible.
 
 > 
 
-[**`Ejemplo 1`**](Ejemplo-02/regex.ipynb)
-[**`Reto 1`**](Reto-02/regex.ipynb)
+[**`Ejemplo 1`**](Ejemplo-01/regex.ipynb)
+[**`Reto 1`**](Reto-01/regex.ipynb)
 
-[**`Ejemplo 2`**](Ejemplo-03/nltk_text.ipynb)
-[**`Reto 2`**](Reto-03/nltk_text.ipynb)
+[**`Ejemplo 2`**](Ejemplo-02/nltk_text.ipynb)
+[**`Reto 2`**](Reto-02/nltk_text.ipynb)
 
-[**`Ejemplo 3`**](Ejemplo-04/nltk_freq_dist.ipynb)
-[**`Ejemplo 4`**](Ejemplo-05/nlp_visualizaciones.ipynb)
-[**`Reto 3`**](Reto-04/nltk_freq_dist_y_visualizaciones.ipynb)
+[**`Ejemplo 3`**](Ejemplo-03/nltk_freq_dist.ipynb)
+[**`Ejemplo 4`**](Ejemplo-04/nlp_visualizaciones.ipynb)
+[**`Reto 3`**](Reto-03/nltk_freq_dist_y_visualizaciones.ipynb)
 
-[**`Ejemplo 5`**](Ejemplo-06/analisis_de_sentimientos.ipynb)
-[**`Reto 4`**](Reto-05/analisis_de_sentimientos.ipynb)
+[**`Ejemplo 5`**](Ejemplo-05/analisis_de_sentimientos.ipynb)
+[**`Reto 4`**](Reto-04/analisis_de_sentimientos.ipynb)
 
 ---
 
