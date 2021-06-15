@@ -34,8 +34,7 @@ En el siguiente ejemplo veremos cómo aplicar estos conceptos de una manera prá
 [**`Ejemplo 1`**](Ejemplo-01/pruebas_ab.ipynb)
 [**`Reto 1`**](Reto-01/pruebas_ab.ipynb)
  -->
----
-
+ 
 <ins>Procesamiento de Lenguaje Natural</ins>
 
 El lenguaje natural pertenece al tipo de datos que llamamos datos no estructurados. Esto se debe a que su estructura es bastante más impredecible que la de nuestros datos estructurados. Aunque existen reglas gramaticales y de sintaxis, hay mucha variedad en el uso del lenguaje, además de que la variedad posible de combinaciones es inmensamente grande.
