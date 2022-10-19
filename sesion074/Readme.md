@@ -1,16 +1,20 @@
+[`Análisis de Datos con Python`](../README.md) > `Sesión 6`
 
-# Sesión 07: Pruebas A/B y Procesamiento de Lenguaje Natural
+## Sesión 07: Procesamiento del Lenguaje Natural
 
-## :dart: Objetivos
+<img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
 
-- Evaluar los resultados de Pruebas A/B.
+
+### 1. Objetivos :dart:
+
+<!-- - Evaluar los resultados de Pruebas A/B. -->
 - Aplicar algunas técnicas de lenguaje natural usando Nltk y TextBlob.
 
-## 📂 Contenido
+### 2. Contenido :blue_book:
 
 ---
 
-<ins>Pruebas A/B</ins>
+<!-- <ins>Pruebas A/B</ins>
 
 Aprendimos en el Prework que una prueba A/B (A/B Test) es un experimento con dos grupos de personas para establecer cuál de dos tratamientos, procedimientos, productos, etc, es superior.
 
@@ -29,9 +33,8 @@ En el siguiente ejemplo veremos cómo aplicar estos conceptos de una manera prá
 
 [**`Ejemplo 1`**](Ejemplo-01/pruebas_ab.ipynb)
 [**`Reto 1`**](Reto-01/pruebas_ab.ipynb)
-
----
-
+ -->
+ 
 <ins>Procesamiento de Lenguaje Natural</ins>
 
 El lenguaje natural pertenece al tipo de datos que llamamos datos no estructurados. Esto se debe a que su estructura es bastante más impredecible que la de nuestros datos estructurados. Aunque existen reglas gramaticales y de sintaxis, hay mucha variedad en el uso del lenguaje, además de que la variedad posible de combinaciones es inmensamente grande.
@@ -42,18 +45,21 @@ Vamos a explorar algunas herramientas y técnicas que hacen esto posible.
 
 > 
 
-[**`Ejemplo 2`**](Ejemplo-02/regex.ipynb)
-[**`Reto 2`**](Reto-02/regex.ipynb)
+[**`Ejemplo 1`**](Ejemplo-01/regex.ipynb)
+[**`Reto 1`**](Reto-01/regex.ipynb)
 
-[**`Ejemplo 3`**](Ejemplo-03/nltk_text.ipynb)
-[**`Reto 3`**](Reto-03/nltk_text.ipynb)
+[**`Ejemplo 2`**](Ejemplo-02/nltk_text.ipynb)
+[**`Reto 2`**](Reto-02/nltk_text.ipynb)
 
-[**`Ejemplo 4`**](Ejemplo-04/nltk_freq_dist.ipynb)
-[**`Ejemplo 5`**](Ejemplo-05/nlp_visualizaciones.ipynb)
-[**`Reto 4`**](Reto-04/nltk_freq_dist_y_visualizaciones.ipynb)
+[**`Ejemplo 3`**](Ejemplo-03/nltk_freq_dist.ipynb)
+[**`Ejemplo 4`**](Ejemplo-04/nlp_visualizaciones.ipynb)
+[**`Reto 3`**](Reto-03/nltk_freq_dist_y_visualizaciones.ipynb)
+
+[**`Ejemplo 5`**](Ejemplo-05/analisis_de_sentimientos.ipynb)
+[**`Reto 4`**](Reto-04/analisis_de_sentimientos.ipynb)
 
 ---
 
-## Postwork
+### 3. Postwork :memo:
 
 [**`Postwork Sesión 7`**](Postwork/Readme.md)
